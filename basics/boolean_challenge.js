@@ -11,4 +11,3 @@ console.log(isJsProgrammingLanguage);
 console.log(isJsHard);
 console.log(favNumb + undefined);
 
-
