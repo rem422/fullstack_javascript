@@ -18,6 +18,13 @@ console.log(10 <= 10); //true
 // == loose equality operators (type)
 // != not equality operators (type)
 
-
+console.log(10 === 10); //true
+console.log(10 === '10'); //false
+console.log(10 === 20); //false
+console.log(10 !== 10) //false
+console.log(10 !== '10'); //true
+console.log(10 == '10'); //true
+console.log(10 == 20); //false
+console.log(10 != 20); //true
 
 
