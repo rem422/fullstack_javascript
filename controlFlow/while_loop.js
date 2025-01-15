@@ -1,6 +1,6 @@
 let i = 1;
 
 while (i <= 100) {
-    console.log(i, 'Hello, world!', )
+    console.log(i, 'Hello, world!')
     i++;
 }
