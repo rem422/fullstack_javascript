@@ -8,7 +8,7 @@
 const car = {
     type: "Mazda",
     model: "Axela",
-    color: "Black",
+    color: "Wine Red",
 }
 
 console.log(car);
